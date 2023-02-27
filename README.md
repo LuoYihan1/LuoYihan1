@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuoYihan1
-- 👀 I’m interested in coding for Business Analytics
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in coding for Data Science
+- 🌱 I’m currently learning Python, R, SQL
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
